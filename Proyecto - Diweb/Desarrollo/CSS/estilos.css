@@ -1,0 +1,86 @@
+/* Presentacion general compartida por las tres paginas. */
+
+/* Pagina */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #FAF9F5;
+    color: #242D25;
+    margin: 30px;
+}
+
+/* Encabezado */
+header {
+    background-color: #E7EDD9;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Titulos */
+h1 {
+    color: #2F4A22;
+    font-size: 32px;
+}
+
+/* Subtitulos */
+h2 {
+    color: #2F4A22;
+    font-size: 24px;
+}
+
+/* Parrafos */
+h3 {
+    color: #2F4A22;
+}
+
+/* Parrafos */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Enlaces */
+a {
+    color: #5B7B2F;
+}
+
+/* Secciones */
+section {
+    background-color: #FFFFFF;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+/* Tablas */
+table {
+    width: 500px;
+    border-collapse: collapse;
+}
+
+/* Encabezados de tabla */
+th {
+    background-color: #E7EDD9;
+    border: 1px solid #7C8576;
+    padding: 10px;
+    text-align: left;
+}
+
+/* Celdas de tabla */
+td {
+    border: 1px solid #7C8576;
+    padding: 10px;
+}
+
+/* Area lateral */
+aside {
+    background-color: #E7EDD9;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+/* Pie de pagina */
+footer {
+    background-color: #E7EDD9;
+    padding: 10px;
+    margin-top: 20px;
+    text-align: center;
+}
